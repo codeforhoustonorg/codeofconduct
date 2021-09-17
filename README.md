@@ -1,6 +1,6 @@
 # Code for Houston Brigade Code of Conduct / Código de Conducta
 
-### | - [In English](https://github.com/codeforhoustonorg/codeofconduct/blob/master/english.md) - | - [En Español](https://github.com/codeforhouston/codeofconduct/blob/master/español.md) - |
+### | - [In English](https://github.com/codeforhoustonorg/codeofconduct/blob/master/english.md) - | - [En Español](https://github.com/codeforhouston/codeofconduct/blob/master/esp.md) - |
 
 ----
 
