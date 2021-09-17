@@ -1,4 +1,10 @@
-# Código de Conducta
+# Code for Houston Brigade Code of Conduct / Código de Conducta
+
+### | - [In English](https://github.com/codeforhoustonorg/codeofconduct/blob/master/english.md) - | - [En Español](https://github.com/codeforhoustonorg/codeofconduct/blob/master/español.md) - |
+
+----
+
+# Code for Houston Brigade Código de Conducta
 
 La comunidad de "Code for America" espera que las actividades y eventos de "Code for America":
 
