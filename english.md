@@ -1,4 +1,8 @@
-# The Code for Houston Brigade Code of Conduct
+# Code for Houston Brigade Code of Conduct / Código de Conducta
+
+### | - [In English](https://github.com/codeforhoustonorg/codeofconduct/blob/master/english.md) - | - [En Español](https://github.com/codeforhouston/codeofconduct/blob/master/español.md) - |
+
+----
 
 The Code for Houston Brigade (https://codeforhouston.org) works expects all participants and stakeholders to abide by the following Code of Conduct:
 
