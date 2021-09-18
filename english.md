@@ -4,7 +4,7 @@
 
 ----
 
-The Code for Houston Brigade (https://codeforhouston.org) works expects all participants and stakeholders to abide by the following Code of Conduct:
+The Code for Houston Brigade (https://codeforhouston.org) asks all participants and stakeholders to abide by the following Code of Conduct:
 
 1. Create a safe and respectful environment for all participants, where people are free from discrimination or harassment.
 2. Create a place where people are free to fully express their identities.
