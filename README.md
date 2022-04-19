@@ -31,7 +31,7 @@ We await your contributions :heart:
 
 ### More information and incident reports
 
-If you have any questions or want to report a violation to our code of conduct please contact **safespace** at **codeforamerica.org**.
+If you have any questions or want to report a violation to our code of conduct please contact **grace.rodriguez** at **impacthub.net**.
 
 ----
 
@@ -52,4 +52,4 @@ Esperamos sus contribuciones :heart:
 
 ### Más información o reporte de incidentes
 
-Si tienes alguna pregunta o quieres reportar una violación a nuestro código de conducta por favor contacte **safespace** at **codeforamerica.org**.
+Si tienes alguna pregunta o quieres reportar una violación a nuestro código de conducta por favor contacte **grace.rodriguez** at **impacthub.net**.
