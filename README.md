@@ -1,11 +1,11 @@
 # Code for Houston Brigade Code of Conduct / Código de Conducta
 
-### Click the appropriate link to read the Code for Houston Code of Conduct: [In English](https://github.com/codeforhoustonorg/codeofconduct/blob/master/english.md) | [En Español](https://github.com/codeforhoustonorg/codeofconduct/blob/master/español.md)
+## Click the appropriate link to read the Code for Houston Code of Conduct: [In English](https://github.com/codeforhoustonorg/codeofconduct/blob/master/english.md) | [En Español](https://github.com/codeforhoustonorg/codeofconduct/blob/master/español.md)
 
 ----
 
 
-## The Code for Houston Code of Conduct is based on the Code for America Code of Conduct
+### The Code for Houston Code of Conduct is based on the Code for America Code of Conduct
 
 - [In English](https://github.com/codeforamerica/codeofconduct/blob/master/code-of-conduct-en.md)
   - [How to Contribute](#how-to-contribute-to-the-Code-for-America-Code-of-Conduct)
@@ -14,7 +14,7 @@
   - [Cómo contribuir](#cómo-contribuir-a-este-código-de-conducta)
   - [Más Información o reportar incidentes](#más-información-o-reporte-de-incidentes)
 
-## Code for America Code of Conduct
+### Code for America Code of Conduct
 
 In Code for America we believe that everybody should feel comfortable, accepted, and safe. For this reason our Code of Conduct is very important and guides all interactions in our event and properties. You can view the Code for America Code of Conduct at (https://brigade.codeforamerica.org/about/code-of-conduct/).
 
@@ -33,7 +33,7 @@ If you have any questions or want to report a violation to our code of conduct p
 
 ----
 
-## Código de Conducta
+### Código de Conducta
 
 En Code for America creemos que todxs deben sentirse cómodos, aceptados y seguros.
 
